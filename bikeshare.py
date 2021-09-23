@@ -2,6 +2,7 @@
 "Date: 9/21/2021"
 "Bikeshare database - Project 2"
 "Udacity - Intro to Data Science with Python"
+"GitHub repo: https://github.com/ajbean/pdsnd_github"
 
 import time
 import pandas as pd
